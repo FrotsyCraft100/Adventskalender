@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Roboto:ital,wght@1,100&display=swap');
+@import url(https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200);
+@import url(https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200);
+@import url(https://fonts.googleapis.com/icon?family=Material+Icons);
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+#überschrift{
+    font-family: 'Roboto', sans-serif;
+}
+
+#überschriftLink:hover{
+    color: rgb(37, 133, 216);
+    cursor: pointer;
+}
+
+#überschrift{
+    height: auto;
+    width: 485px;
+}
+
+
+#überschriftLink{
+    font-size: 30px;
+    color: rgb(68, 67, 67);
+}
+
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}
+
+#sync:hover{
+    cursor: pointer;
+    color: rgb(53, 53, 53);
+}
+
+#sync{
+    color: black;
+    size: 100%;
+}
+
+.icon{
+    box-sizing: 10px;
+}
